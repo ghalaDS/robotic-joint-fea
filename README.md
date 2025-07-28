@@ -15,7 +15,7 @@ Redesign the robotic arm joint to:
 
 ## Model Preview
 
-<img src="./screenshot.png" alt="Arm Joint Design" width="500"/> 
+<img src="./screenshot.png" alt="Arm Joint Design" width="660"/> 
 
 ## View the Model on Onshape
 
